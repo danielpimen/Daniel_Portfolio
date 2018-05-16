@@ -27,7 +27,7 @@ const Contact = props => (
     </div>
     <div className="row">
       <div className="col-md-2" />
-      <div className="col-md-8">Sup</div>
+      <div className="col-md-8"></div>
       <div className="col-md-2" />
     </div>
     <div className="row">
